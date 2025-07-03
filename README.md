@@ -36,6 +36,7 @@ The system averages all the individual graphs into a single, bold **Aggregate Op
 
 ![image](https://github.com/user-attachments/assets/363b4043-5195-40a6-bdfd-9583d7c9b3af)
 
+![image](https://github.com/user-attachments/assets/dd9b5620-6b5c-48c4-99bd-f5b2a351ff93)
 
 ### Step 3: Allocate Funds with Maximum Impact
 
